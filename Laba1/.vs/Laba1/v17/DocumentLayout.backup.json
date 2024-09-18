@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keffi\\source\\repos\\Laba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3A2F08-B955-4768-A7E6-BF933304C149}|Laba1\\Laba1.csproj|c:\\users\\keffi\\source\\repos\\laba1\\laba1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3A2F08-B955-4768-A7E6-BF933304C149}|Laba1\\Laba1.csproj|solutionrelative:laba1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keffi\\source\\repos\\Laba1\\Laba1\\Program.cs",
+              "RelativeDocumentMoniker": "Laba1\\Program.cs",
+              "ToolTip": "C:\\Users\\keffi\\source\\repos\\Laba1\\Laba1\\Program.cs",
+              "RelativeToolTip": "Laba1\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:25:15.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
